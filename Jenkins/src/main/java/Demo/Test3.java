@@ -1,17 +1,15 @@
 package Demo;
 
 import org.testng.annotations.Test;
-
-
-
 import org.testng.Reporter;
 
 
-public class Test1 {
+public class Test3 {
 	
 	@Test
-	public void m1() {
-		Reporter.log("Hello",true);
+	public void m3() {
+		Reporter.log("hellojii",true);
+		
 	}
 
 }
